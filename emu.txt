@@ -21,7 +21,7 @@ description=pokemon
 console=gameboy advance
 name=Pokemon Verde Hoja
 lang=en
-icon=pkam.png
+icon=VerdeHoja.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
 description=pokemon
 
