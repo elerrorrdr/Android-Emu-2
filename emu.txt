@@ -1,0 +1,11 @@
+marketversion=1.0
+package=music2.apk
+
+
+
+
+name=Pokemon Amarillo
+icon=pokemonamarillo.png
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/walking%20pokemon%20go%20night.mmm
+description=pokemon
+
