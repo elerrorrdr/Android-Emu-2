@@ -12,11 +12,16 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonA
 description=pokemon
 
 console=gameboy
-name=Pokemon Amarillo
+name=Pokemon Yellow
 lang=en
 icon=pkam.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
 description=pokemon
 
-
+console=gameboy advance
+name=Pokemon Verde Hoja
+lang=en
+icon=pkam.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
+description=pokemon
 
