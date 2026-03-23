@@ -5,6 +5,7 @@ package=emu2.apk
 
 console=gameboy
 name=Pokemon Amarillo
+lang=es
 icon=pkam.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonAmarillo.gb
 description=pokemon
