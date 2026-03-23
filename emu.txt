@@ -3,9 +3,11 @@ package=emu2.apk
 
 
 
-
+console=gameboy
 name=Pokemon Amarillo
 icon=pokemonamarillo.png
-package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/walking%20pokemon%20go%20night.mmm
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonAmarillo.gb
 description=pokemon
+
+
 
