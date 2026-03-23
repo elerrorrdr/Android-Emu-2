@@ -1,5 +1,5 @@
 marketversion=1.0
-package=music2.apk
+package=emu2.apk
 
 
 
