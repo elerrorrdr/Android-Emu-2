@@ -1,6 +1,7 @@
 marketversion=1.0
 package=emu2.apk
 
+# El orden de los bloques define el orden de la lista.
 
 
 
@@ -10,6 +11,7 @@ lang=es
 icon=pkam.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonAmarillo.gb
 description=pokemon
+type=recommended
 
 console=gameboy
 name=Pokemon Yellow
@@ -17,27 +19,23 @@ lang=en
 icon=pkam.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
 description=pokemon
+type=normal
 
 console=gameboy advance
 name=Pokemon Verde Hoja
-lang=es
+lang=en
 icon=VerdeHoja.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonverdegba.gba
 description=pokemon
+type=recommended
 
 console=nes
 name=Tetris
 lang=es
 icon=tetri.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%20(Europe).nes
-description=pokemon
-
-console=nes
-name=Tetris
-lang=es
-icon=tetri.png
-package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%20(Europe).nes
-description=pokemon
+description=tetris
+type=recommended
 
 console=snes
 name=Super Mario All Stars
@@ -45,10 +43,15 @@ lang=en
 icon=SMAS.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Super%20Mario%20All-Stars%20+%20Super%20Mario%20World%20(USA).sfc
 description=pokemon
+type=recommended
 
-
-
-
+console=n64
+name=Super Mario 64
+lang=en
+icon=sm64.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Super%20Mario%2064%20(Europe)%20(En,Fr,De).n64
+description=pokemon
+type=recommended
 
 
 
