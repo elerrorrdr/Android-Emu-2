@@ -20,8 +20,34 @@ description=pokemon
 
 console=gameboy advance
 name=Pokemon Verde Hoja
-lang=en
+lang=es
 icon=VerdeHoja.png
-package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemonverdegba.gba
 description=pokemon
+
+console=nes
+name=Tetris
+lang=es
+icon=tetri.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%20(Europe).nes
+description=pokemon
+
+console=nes
+name=Tetris
+lang=es
+icon=tetri.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%20(Europe).nes
+description=pokemon
+
+
+
+
+
+
+
+
+
+
+
+
 
