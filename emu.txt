@@ -42,7 +42,7 @@ name=Super Mario All Stars
 lang=en
 icon=SMAS.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Super%20Mario%20All-Stars%20+%20Super%20Mario%20World%20(USA).sfc
-description=pokemon
+description=smas
 type=recommended
 
 console=n64
@@ -50,7 +50,7 @@ name=Super Mario 64
 lang=en
 icon=sm64.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Super%20Mario%2064%20(Europe)%20(En,Fr,De).n64
-description=pokemon
+description=sm64
 type=recommended
 
 
