@@ -39,8 +39,12 @@ icon=tetri.png
 package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%20(Europe).nes
 description=pokemon
 
-
-
+console=snes
+name=Super Mario All Stars
+lang=en
+icon=SMAS.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Super%20Mario%20All-Stars%20+%20Super%20Mario%20World%20(USA).sfc
+description=pokemon
 
 
 
