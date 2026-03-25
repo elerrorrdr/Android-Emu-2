@@ -69,9 +69,21 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/007%20-%
 description=GoldenEye
 type=recommended
 
+console=ps1
+name=Metal Gear Solid Disc 1
+lang=es
+icon=mgs1.png
+package=https://www.mediafire.com/file/sor8w7yg4pwlrs7/%2528PS1%2529_Metal_Gear_Solid_%255BPAL%255D_%255BSLES-01734%255D_%255BCD1%255D.bin/file
+description=Metal gear solid 
+type=recommended
 
-
-
+console=ps1
+name=Metal Gear Solid Disc 2
+lang=es
+icon=mgs1.png
+package=https://www.mediafire.com/file/vot3jd2ewmx00wk/%2528PS1%2529_Metal_Gear_Solid_%255BPAL%255D_%255BSLES-11734%255D_%255BCD2%255D.bin/file
+description=Metal gear solid 
+type=recommended
 
 
 
