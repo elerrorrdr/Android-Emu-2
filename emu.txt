@@ -37,6 +37,14 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Tetris%2
 description=tetris
 type=recommended
 
+console=nes
+name=Taboo The Sixth Sense
+lang=es
+icon=taboo.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Taboo%20-%20The%20Sixth%20Sense%20(USA)%20(Rev%20A).nes
+description=tetris
+type=recommended
+
 console=snes
 name=Super Mario All Stars
 lang=en
