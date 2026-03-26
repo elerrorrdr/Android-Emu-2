@@ -81,7 +81,31 @@ console=megadrive
 name=Sonic The Hedgehog 
 lang=en
 icon=sonic1.png
-package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/007%20-%20GoldenEye%20(Europe).n64
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Sonic%20The%20Hedgehog%20(USA,%20Europe).md
+description=GoldenEye
+type=recommended
+
+console=megadrive
+name=Sonic The Hedgehog 2
+lang=es
+icon=sonic2.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Sonic%20The%20Hedgehog%202%20(World)%20(Rev%20A).md
+description=GoldenEye
+type=recommended
+
+console=megadrive
+name=Sonic The Hedgehog 3
+lang=es
+icon=sonic3.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Sonic%20The%20Hedgehog%203%20(Europe).md
+description=GoldenEye
+type=recommended
+
+console=megadrive
+name=Sonic & knuckles 
+lang=es
+icon=sonic&.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/Sonic%20&%20Knuckles%20(World).md
 description=GoldenEye
 type=recommended
 
