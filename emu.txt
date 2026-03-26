@@ -77,6 +77,14 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/007%20-%
 description=GoldenEye
 type=recommended
 
+console=megadrive
+name=Sonic The Hedgehog 
+lang=en
+icon=sonic1.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/007%20-%20GoldenEye%20(Europe).n64
+description=GoldenEye
+type=recommended
+
 console=ps1
 name=Metal Gear Solid Disc 1
 lang=es
