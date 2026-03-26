@@ -21,6 +21,14 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomY
 description=pokemon
 type=normal
 
+console=gameboy
+name=Legend of Zelda The Link's Awakening
+lang=en
+icon=tlozla.png
+package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/pokemomYellow.gb
+description=zelda
+type=normal
+
 console=gameboy advance
 name=Pokemon Verde Hoja
 lang=en
