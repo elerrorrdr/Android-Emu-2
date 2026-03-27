@@ -77,6 +77,22 @@ package=https://github.com/elerrorrdr/Android-Emu-2/raw/refs/heads/main/007%20-%
 description=GoldenEye
 type=recommended
 
+console=nds
+name=Pokemon Edicion Negra
+lang=en
+icon=pkmnegro.png
+package=https://www.mediafire.com/file/5obvm0hfbjmqyns/pkmnegro.nds/file
+description=GoldenEye
+type=recommended
+
+console=nds
+name=Pokemon Edicion Negra 2
+lang=en
+icon=pkmnegro.png
+package=https://www.mediafire.com/file/5obvm0hfbjmqyns/pkmnegro.nds/file
+description=GoldenEye
+type=recommended
+
 console=megadrive
 name=Sonic The Hedgehog 
 lang=en
